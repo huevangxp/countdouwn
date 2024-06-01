@@ -2,9 +2,9 @@
   <v-app dark>
 
     <v-main>
-      <v-container>
+      <div>
         <Nuxt />
-      </v-container>
+      </div>
     </v-main>
 
   </v-app>
